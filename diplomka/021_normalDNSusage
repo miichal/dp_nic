@@ -1,0 +1,5 @@
+Normal DNS usage
+The standard usage of DNS is to translate domain name to ip address. For this purpose we can select three main parts of DNS.
+a)Domain names space and DNS records
+b)DNS servers
+c)Resolvers

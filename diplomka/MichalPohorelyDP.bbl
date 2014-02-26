@@ -1,0 +1,109 @@
+\begin{thebibliography}{10}
+\providecommand{\biburl}[1]{\textless\url{#1}\textgreater}
+\providecommand{\urlprefix}{Available at WWW: }
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi:\discretionary{}{}{}#1}\else
+  \providecommand{\doi}{doi:\discretionary{}{}{}\begingroup
+  \urlstyle{rm}\Url}\fi
+\providecommand{\selectlanguage}[1]{\relax}
+\providecommand{\eprint}[2][]{\biburl{#2}}
+
+\bibitem{AntPerLee11}
+Antonakakis, M.; Perdisci, R.; Lee, W.; etc.: Detecting Malware Domains at the
+  Upper {DNS} Hierarchy. In \emph{{USENIX} Security Symposium}, 2011.
+\urlprefix\biburl{http://www.usenix.org/event/sec11/tech/full_papers/Antonakakis.pdf}
+
+\bibitem{BaiHuSon11}
+Bai, X.; Hu, L.; Song, Z.; etc.: Defense against {DNS} Man-In-The-Middle
+  Spoofing. In \emph{Web Information Systems and Mining}, \emph{Lecture Notes
+  in Computer Science}, volume 6987, edited by Z.~Gong; X.~Luo; J.~Chen;
+  J.~Lei; F.~Wang, Springer Berlin Heidelberg, Jan. 2011, ISBN
+  978-3-642-23970-0, pp. 312--319.
+\urlprefix\biburl{http://dx.doi.org/10.1007/978-3-642-23971-7_39}
+
+\bibitem{Ber08}
+{Bernhard M Hämmerli}: {\selectlanguage{English}\emph{Critical information
+  infrastructures security: second international workshop, {CRITIS} 2007,
+  Málaga, Spain, October 3 - 5, 2007 ; revised papers}}. Berlin [u.a.:
+  Springer, 2008, ISBN 3540890955 9783540890959 9783540891734 3540891730.
+\urlprefix\biburl{http://dx.doi.org/10.1007/978-3-540-89173-4}
+
+\bibitem{DewFukBor07}
+Dewaele, G.; Fukuda, K.; Borgnat, P.; etc.: Extracting hidden anomalies using
+  sketch and non gaussian multiresolution statistical detection procedures. In
+  \emph{Proceedings of the 2007 workshop on Large scale attack defense}, 2007,
+  p. 145–152.
+\urlprefix\biburl{http://dl.acm.org/citation.cfm?id=1352675}
+
+\bibitem{EllZurSpe13}
+Ellens, W.; Żuraniewski, P.; Sperotto, A.; etc.: Flow-Based Detection of {DNS}
+  Tunnels. In \emph{Emerging Management Mechanisms for the Future Internet},
+  \emph{Lecture Notes in Computer Science}, volume 7943, edited by G.~Doyen;
+  M.~Waldburger; P.~Čeleda; A.~Sperotto; B.~Stiller, Springer Berlin
+  Heidelberg, Jan. 2013, ISBN 978-3-642-38997-9, pp. 124--135.
+\urlprefix\biburl{http://dx.doi.org/10.1007/978-3-642-38998-6_16}
+
+\bibitem{FeiShaRam09}
+Feily, M.; Shahrestani, A.; Ramadass, S.: A Survey of Botnet and Botnet
+  Detection. In \emph{Third International Conference on Emerging Security
+  Information, Systems and Technologies, 2009. {SECURWARE} '09}, 2009, pp.
+  268--273, \doi{10.1109/SECURWARE.2009.48}.
+
+\bibitem{HeiBar11}
+van~der Heide, H.; Barendregt, N.: {DNS} anomaly detection. In
+  \emph{{WWW-Dokument}, staff. science. uva. nl/∼
+  delaat/sne-2010-2011/p17/report. pdf}, 2011.
+\urlprefix\biburl{http://ext.delaat.net/rp/2010-2011/p17/report.pdf}
+
+\bibitem{JiaCaoJin10}
+Jiang, N.; Cao, J.; Jin, Y.; etc.: Identifying suspicious activities through
+  {DNS} failure graph analysis. In \emph{2010 18th {IEEE} International
+  Conference on Network Protocols ({ICNP)}}, 2010, pp. 144--153,
+  \doi{10.1109/ICNP.2010.5762763}.
+
+\bibitem{KamMosGen08}
+Kambourakis, G.; Moschos, T.; Geneiatakis, D.; etc.: Detecting {DNS}
+  Amplification Attacks. In \emph{Critical Information Infrastructures
+  Security}, \emph{Lecture Notes in Computer Science}, volume 5141, edited by
+  J.~Lopez; B.~Hämmerli, Springer Berlin Heidelberg, Jan. 2008, ISBN
+  978-3-540-89095-9, pp. 185--196.
+\urlprefix\biburl{http://dx.doi.org/10.1007/978-3-540-89173-4_16}
+
+\bibitem{KarMeiHoe06}
+Karasaridis, A.; Meier-Hellstern, K.; Hoeflin, D.: {NIS04-2:} Detection of
+  {DNS} Anomalies using Flow Data Analysis. In \emph{{IEEE} Global
+  Telecommunications Conference, 2006. {GLOBECOM} '06}, 2006, pp. 1--6,
+  \doi{10.1109/GLOCOM.2006.280}.
+
+\bibitem{MikSlaVes11}
+Mikle, O.; Slaný, K.; Veselý, V.; etc.:
+  {Detecting\_Hidden\_Anomalies\_in\_DNS\_Communication-2011.pdf} - Hledat
+  Googlem. In \emph{{CZ.NIC}}, 2011.
+\urlprefix\biburl{https://www.google.cz/search?q=Detecting_Hidden_Anomalies_in_DNS_Communication-2011.pdf&ie=utf-8&oe=utf-8&rls=org.mozilla:cs-CZ:official&client=firefox-a&gws_rd=cr&ei=Vxl8UtDsO--O7QbIwoCIAw}
+
+\bibitem{Moc87a}
+Mockapetris, P.: Rfc 1034: Domain names-concepts and facilities, 1987. 1987.
+
+\bibitem{Moc87}
+Mockapetris, P.: {RFC} 1035: Domain names: implementation and specification
+  (November 1987). 1987.
+
+\bibitem{NazHol08}
+Nazario, J.; Holz, T.: As the net churns: Fast-flux botnet observations. In
+  \emph{Malicious and Unwanted Software, 2008. {MALWARE} 2008. 3rd
+  International Conference on}, 2008, p. 24–31.
+\urlprefix\biburl{http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=4690854}
+
+\bibitem{Nel94}
+Nelson, M.~M.: \emph{A practical guide to neural nets /}. Addison-Wesley
+  Publishing Company: Reading, 1994, ISBN 0-201-63378-7.
+
+\bibitem{Vra11}
+Vraštiak, P.: \emph{Hledání anomálií v provozu {DNS}}. Diplomová práce,
+  {VUT} Brno, Brno, 2011.
+
+\bibitem{wik14}
+{wikipedia}: Domain Name System. Jan. 2014, page Version {ID:} 587867901.
+\urlprefix\biburl{http://en.wikipedia.org/w/index.php?title=Domain_Name_System&oldid=587867901}
+
+\end{thebibliography}

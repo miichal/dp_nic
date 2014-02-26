@@ -1,0 +1,53 @@
+Opravit TeX na FIT sablony
+Rozchodit správu citací - jabref, zotero, bibdesk
+Cist clanky
+Clanky rozdelit, chci cist ted, pozdeji, nebudu
+Prohlidnout tri clanky
+
+1. V rámci diplomky, spoluautoři s vedoucím.
+2. Budoucí návaznost, reference.
+
+Ctrtky 9:00 A1424
+
+Hledat charakterizace dns utoku
+
+===================================
+21.11.
+Nainstalovat jabref - pro upravy klicu citaci
+Projit citace a doplnit chybejici metadata
+
+Seznam kapitol v diagramu
+Opravit reference v jabref+zotero
+Kouknout jabref bibtex preview
+Psat vypisky clanku do diplomky
+
+28.11.
+Psat charakteristiky utoku do TeXu
+Strukturu do TeXu
+Znovu opravit citace v Zoteru - najit editor pro odhaleni bilych znaku
+
+=======================================================================
+
+19.2.
+Pouzit R, pro statisticke vyhodnoceni jako pipe
+Python, scapy, R
+GSL - ceckova knihovna pro matiku
+Pythnovksy program - precist DNS data z libpcap - odeslat do R
+pro python - from scapy.all import *
+
+Ukol: udelat programek - 
+1.export tcodump do R a pohrat si
+2.nacist data data do R a zpracovat
+3.napojit scapy do pythonu
+4.cecko s GSL
+
+==========================================================
+
+24.2.
+analyta rychlosti odsunout na pozdeji
+
+sehnat data zive pro 
+naplanovat schuzku
+skript v R
+
+

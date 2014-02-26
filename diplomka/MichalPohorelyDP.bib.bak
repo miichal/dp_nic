@@ -1,0 +1,263 @@
+% This file was created with JabRef 2.9.2.
+% Encoding: UTF-8
+
+@INPROCEEDINGS{AntPerLee11,
+  author = {Antonakakis, Manos and Perdisci, Roberto and Lee, Wenke and Vasiloglou
+	{II}, Nikolaos and Dagon, David},
+  title = {Detecting Malware Domains at the Upper {DNS} Hierarchy.},
+  booktitle = {{USENIX} Security Symposium},
+  year = {2011},
+  annote = {viz Kopis},
+  url = {http://www.usenix.org/event/sec11/tech/full_papers/Antonakakis.pdf},
+  urldate = {2013-11-08}
+}
+
+@INPROCEEDINGS{DewFukBor07,
+  author = {Dewaele, Guillaume and Fukuda, Kensuke and Borgnat, Pierre and Abry,
+	Patrice and Cho, Kenjiro},
+  title = {Extracting hidden anomalies using sketch and non gaussian multiresolution
+	statistical detection procedures},
+  booktitle = {Proceedings of the 2007 workshop on Large scale attack defense},
+  year = {2007},
+  pages = {145–152},
+  url = {http://dl.acm.org/citation.cfm?id=1352675},
+  urldate = {2013-11-08}
+}
+
+@INPROCEEDINGS{FeiShaRam09,
+  author = {Feily, M. and Shahrestani, A. and Ramadass, S.},
+  title = {A Survey of Botnet and Botnet Detection},
+  booktitle = {Third International Conference on Emerging Security Information,
+	Systems and Technologies, 2009. {SECURWARE} '09},
+  year = {2009},
+  pages = {268--273},
+  abstract = {Among the various forms of malware, botnets are emerging as the most
+	serious threat against cyber-security as they provide a distributed
+	platform for several illegal activities such as launching distributed
+	denial of service attacks against critical targets, malware dissemination,
+	phishing, and click fraud. The defining characteristic of botnets
+	is the use of command and control channels through which they can
+	be updated and directed. Recently, botnet detection has been an interesting
+	research topic related to cyber-threat and cyber-crime prevention.
+	This paper is a survey of botnet and botnet detection. The survey
+	clarifies botnet phenomenon and discusses botnet detection techniques.
+	This survey classifies botnet detection techniques into four classes:
+	signature-based, anomaly-based, {DNS-based}, and mining-base. It
+	summarizes botnet detection techniques in each class and provides
+	a brief comparison of botnet detection techniques.},
+  doi = {10.1109/SECURWARE.2009.48},
+  keywords = {Automatic control, Botnet, Botnet Detection, botnet detection techniques,
+	Command and control systems, Computer crime, Computer science, Computer
+	security, cyber-crime prevention, cyber-security, digital signatures,
+	Distributed computing, distributed denial of service attack, distributed
+	platform, Information security, invasive software, malware dissemination,
+	National security, Protocols, Robotics and automation}
+}
+
+@ARTICLE{HeiBar11,
+  author = {van der Heide, Hidde and Barendregt, Nick},
+  title = {{DNS} anomaly detection},
+  journal = {{WWW-Dokument}, staff. science. uva. nl/∼ delaat/sne-2010-2011/p17/report.
+	pdf},
+  year = {2011},
+  url = {http://ext.delaat.net/rp/2010-2011/p17/report.pdf},
+  urldate = {2013-11-08}
+}
+
+@INPROCEEDINGS{JiaCaoJin10,
+  author = {Jiang, Nan and Cao, Jin and Jin, Yu and Li, Li and Zhang, Zhi-Li},
+  title = {Identifying suspicious activities through {DNS} failure graph analysis},
+  booktitle = {2010 18th {IEEE} International Conference on Network Protocols ({ICNP)}},
+  year = {2010},
+  pages = {144--153},
+  abstract = {As a key approach to securing large networks, existing anomaly detection
+	techniques focus primarily on network traffic data. However, the
+	sheer volume of such data often renders detailed analysis very expensive
+	and reduces the effectiveness of these tools. In this paper, we propose
+	a light-weight anomaly detection approach based on unproductive {DNS}
+	traffic, namely, the failed {DNS} queries, with a novel tool - {DNS}
+	failure graphs. A {DNS} failure graph captures the interactions between
+	hosts and failed domain names. We apply a graph decomposition algorithm
+	based on the tri-nonnegative matrix factorization technique to iteratively
+	extract coherent co-clusters (dense subgraphs) from {DNS} failure
+	graphs. By analyzing the co-clusters in the daily {DNS} failure graphs
+	from a 3-month {DNS} trace captured at a large campus network, we
+	find these co-clusters represent a variety of anomalous activities,
+	e.g., spamming, trojans, bots, etc.. In addition, these activities
+	often exhibit distinguishable subgraph structures. By exploring the
+	temporal properties of the co-clusters, we show our method can identify
+	new anomalies that likely correspond to unreported domain-flux bots.},
+  doi = {10.1109/ICNP.2010.5762763},
+  keywords = {Communities, Correlation, distinguishable subgraph structures, {DNS}
+	failure graph analysis, domain name system, domain-flux bots, Electronic
+	mail, graph decomposition algorithm, graph theory, Internet, {IP}
+	networks, lightweight anomaly detection, Malware, matrix decomposition,
+	network traffic data, Servers, suspicious activities, telecommunication
+	security, tri-nonnegative matrix factorization}
+}
+
+@INPROCEEDINGS{KarMeiHoe06,
+  author = {Karasaridis, A. and Meier-Hellstern, K. and Hoeflin, D.},
+  title = {{NIS04-2:} Detection of {DNS} Anomalies using Flow Data Analysis},
+  booktitle = {{IEEE} Global Telecommunications Conference, 2006. {GLOBECOM} '06},
+  year = {2006},
+  pages = {1--6},
+  abstract = {The Domain Name System ({DNS)} is an essential network infrastructure
+	component since it supports the operation of the Web, Email, Voice
+	over {IP} ({VoIP)} and other business- critical applications running
+	over the network. Events that compromise the security of {DNS} can
+	have a significant impact on the Internet since they can affect its
+	availability and its intended operation. This paper describes algorithms
+	used to monitor and detect certain types of attacks to the {DNS}
+	infrastructure using flow data. Our methodology is based on algorithms
+	that do not rely on known signature attack vectors. The effectiveness
+	of our solution is illustrated with real and simulated traffic examples.
+	In one example, we were able to detect a tunneling attack well before
+	the appearance of public reports of it.},
+  doi = {10.1109/GLOCOM.2006.280},
+  keywords = {anomaly detection, Computer crime, Data analysis, Data security, Detectors,
+	{DNS} security, domain name system, Electronic mail, email, flow
+	data analysis, Internet, Monitoring, Protocols, telecommunication
+	security, telecommunication traffic, Tunneling, tunneling attack
+	detection, voice over {IP}, {VoIP}, Web server},
+  shorttitle = {{NIS04-2}}
+}
+
+@MISC{ManWenDag,
+  author = {Manos Antonakakis, Roberto Perdisci and Wenke Lee, Nikolaos Vasiloglou
+	{II} and David Dagon},
+  title = {Detecting Malware Domains at the Upper {DNS} Hierarchy},
+  abstract = {In recent years Internet miscreants have been leveraging the {DNS}
+	to build malicious network infrastructures for malware command and
+	control. In this paper we pro- pose a novel detection system called
+	Kopis for detecting malware-related domain names. Kopis passively
+	moni- tors {DNS} traffic at the upper levels of the {DNS} hierar-
+	chy, and is able to accurately detect malware domains by analyzing
+	global {DNS} query resolution patterns. Compared to previous {DNS}
+	reputation systems such as Notos [3] and Exposure [4], which rely
+	on monitor- ing traffic from local recursive {DNS} servers, Kopis
+	offers a new vantage point and introduces new traffic features specifically
+	chosen to leverage the global visibility ob- tained by monitoring
+	network traffic at the upper {DNS} hi- erarchy. Unlike previous work
+	Kopis enables {DNS} oper- ators to independently (i.e., without the
+	need of data from other networks) detect malware domains within their
+	au- thority, so that action can be taken to stop the abuse. Moreover,
+	unlike previous work, Kopis can detect mal- ware domains even when
+	no {IP} reputation information is available. We developed a proof-of-concept
+	version of Kopis, and experimented with eight months of real-world
+	data. Our experimental results show that Kopis can achieve high detection
+	rates (e.g., 98.4\%) and low false positive rates (e.g., 0.3\% or
+	0.5\%). In addition Kopis is able to detect new malware domains days
+	or even weeks before they appear in public blacklists and security
+	forums, and allowed us to discover the rise of a previously unknown
+	{DDoS} botnet based in China},
+  url = {http://scholar.google.cz/scholar?cites=14621744528742889355&as_sdt=2005&sciodt=0,5&hl=cs},
+  urldate = {2013-11-08}
+}
+
+@INPROCEEDINGS{NazHol08,
+  author = {Nazario, Jose and Holz, Thorsten},
+  title = {As the net churns: Fast-flux botnet observations},
+  booktitle = {Malicious and Unwanted Software, 2008. {MALWARE} 2008. 3rd International
+	Conference on},
+  year = {2008},
+  pages = {24–31},
+  shorttitle = {As the net churns},
+  url = {http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=4690854},
+  urldate = {2013-11-08}
+}
+
+@BOOK{Nel94,
+  title = {A practical guide to neural nets /},
+  publisher = {Reading},
+  year = {1994},
+  editor = {Illingworth, W. T.},
+  author = {Nelson, Marilyn {McCord}},
+  address = {Addison-Wesley Publishing Company},
+  isbn = {0-201-63378-7}
+}
+
+@PHDTHESIS{Vra,
+  author = {Pavel Vraštiak},
+  title = {Hledání anomálií v provozu {DNS}},
+  school = {{VUT} Brno},
+  year = {2012},
+  type = {Diplomová práce},
+  address = {Brno},
+  abstract = {Tato diplomová práce je napsána ve spolupráci s firmou {NIC.CZ} a
+	zabývá se anomáliemi v provozu systému {DNS.} Obsahuje popis základních
+	principů tohoto systému a vlastností, kterými se jeho provoz vyznačuje.
+	Účelem této práce je pokusit se vytvořit klasifikátor něk- terých
+	z anomálií v této práci uvedených a ověřit jeho schopnosti teoreticky
+	i v praktických podmínkách.},
+  annote = {{DP} - hledani anomalii v {DNS} Diplomova prace {DNS} anomalii============================1.Úvod-
+	uvodni kapitola shrnující co bylo v práci {řešeno2.DNS} - Domain
+	Name System                                                                                                                                 
+	 -obecný popis {DNS}                                                                                                                                      
+	2.1 Prostor doménových jmen                                                                                                                          
+	-uspořádání v {DNS}                                                                                                                                          
+	 2.2 Záznamy {DNS}                                                                                                                                            
+	 - typy a položky záznamů                                                                                                                                   
+	 2.3 Server {DNS}                                                                                                                                             
+	 - druhy serverů                                                                                                                                            
+	 2.4. Zodpovídání {DNS} dotazů                                                                                                                                
+	 - způsob překladu adres                                                                                                                                    
+	 2.5 Zabezpečení {DNS}                                                                                                                                        
+	 - {DNSSEC} vložení podpisu k záznamům                                                                                                                        
+	 3. Charakteristika legitimního provoze {DNS}                                                                                                                 
+	 -statistiky a shrnutí provozu na autoritativních {DNS} serverech                                                                                             
+	 - výsledek mnoho zbytečného provozu v důsledku chybného nastavení                                                                                          
+	 4. Druhy anomálií v {DNS} provozu                                                                                                                            
+	 -shrnutí možných typů útoku                                                                                                                                
+	 4.1 Kontrola správnosti {DNS} dat na portu 53                                                                                                                
+	 -jakýkoli provoz na portu 53 neobsahující {DNS} data je podezřelý                                                                                            
+	 4.2 Otrávení paměti cache (Cache poisoning)                                                                                                                
+	 -podstrčení falešné odpovědi na dotaz klienta, {DNSSEC} tomu zabraňuje                                                                                       
+	 4.3 Detekce napadených zařízení                                                                                                                            
+	 -analýzou provozu                                                                                                                                          
+	 -nárůst dotazů zypu {MX}                                                                                                                                     
+	 4.4 Detekce domén spojených se škodlivými programy                                                                                                         
+	 -dotazy klientů na podivné servery                                                                                                                         
+	 4.5 Detekce {DNS} tunelu                                                                                                                                     
+	 -použití {DNS} protokolu k jinému účelu, možno odhalit velkým objemem
+	dat                                                                                    
+	 4.6 Metoda rychlého přepínání adres (fast-flux)-zneužití metody
+	proti výpadkům spojení4.7 Distribuované odmítnutí služby-velké množství
+	dotazů se spopustou {NXDOMAIN4.8} Výčet zóny (Zone walking, Zone
+	enumeration)- zjišťování kdo je v zóně, ulehčuje {DNSSEC}, protože
+	vrací namísto ano/ne v případě ne i rozsah nejbližších zón5. Možnosti
+	klasifikace anomálií- shrnutí metod používaných pro klasifikaci dat,
+	největší důraz je kladen na random forest5.1 Klasifikace-druhy klasifikací
+	- učení bez učitele, s učitelem, posilované učení-před klasifikací
+	se obvykle prování předzpracování5.2 Metody využívající vzdálenosti
+	(podobnosti)- data ve stejné třídě musejí být podobná - k-nearest
+	neighborough5.3 Neuronová síť- cílem je napodobit chováníneuronů
+	v biologickém mozku5.4 Klasifikační a regresní stromy ({CART)-} klasifikátor
+	má stromovou strukturu a každý uzel obsahuje jednu testovanou vlastnost-
+	Kritéria pro dělelní uzlů - cílem je aby vzorky uvnitř uzlu byly
+	homogenní a uzly vzájemně co nejvíce rozdílné5.5 Klasifikační les-
+	vytvořený kombinací určitého počtu klasifikačních stromů k dosažení
+	vyšší stability a přesnosti- Metody vytváření - Bagging, Boosting,
+	Random Forest5.6 Random Forest- základem je vytvoření spousty klasifikačních
+	stromů5.6.1 Out-of-Bag odhad chyby- odhad chyby tvořený pozorováním
+	dat výběrem s opakováním5.6.2 Význam proměnných- měření významnosti
+	proměnných - princip snížení nečistoty, princip permutace5.6.3 Matice
+	blízkosti- dává informaci jak jsou si jednotlivá pozorování blízká5.6.4
+	Nastavení parametrů náhodného lesa- minimální velikost množiny, počet
+	stromů, počet náhodně vybraných prediktorů5.6.5 Náhodný les s váženými
+	stromy- přidává se váha stromům s vyšší přesností klasifikace6. Návrh
+	systému pro identifikaci anomálií v {DNS} provozu- popis schopnosti
+	klasifikovat anomálie6.1 Návrh systému- popis implementovaného a
+	dodaného {SW6.2} Sledované metriky provozu za účelem klasifikace-
+	výčet sledovaných metrik6.3 Trénovací množina- výčet možných tříd
+	kategorií7. Popis implementace- popis aplikace, popis tříd - {RandomForest},
+	Tree, {DataSet7.1} Parametry programu- výčet možných argumentů7.2
+	Získání metrik- parsování dns (knihovna ldns), dotazy na kód země7.3
+	Detaily implementace třídy {DataSet-} data načtená ze souborů7.3.1
+	Formát dat- datové typy - {IP} adresa, unsgned integer, integer,
+	float, {stringTrénovací} data - Label, {srcIP}, {srcPort}, {TTL},
+	{TimeVstupní} data ke klasifikaci - stejné jako trénovací bez určené
+	třídy7.4 Detaily implementace třídy Tree- jednotlivé stromy lze paralelizovat},
+  language = {Čeština}
+}
+

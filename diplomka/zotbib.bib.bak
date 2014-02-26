@@ -1,0 +1,196 @@
+
+@book{nelson_practical_1994,
+	address = {Addison-Wesley Publishing Company},
+	title = {A practical guide to neural nets /},
+	isbn = {0-201-63378-7},
+	publisher = {Reading},
+	author = {Nelson, Marilyn {McCord}},
+	editor = {Illingworth, W. T.},
+	year = {1994}
+},
+
+@inproceedings{nazario_as_2008,
+	title = {As the net churns: Fast-flux botnet observations},
+	shorttitle = {As the net churns},
+	url = {http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=4690854},
+	urldate = {2013-11-08},
+	booktitle = {Malicious and Unwanted Software, 2008. {MALWARE} 2008. 3rd International Conference on},
+	author = {Nazario, Jose and Holz, Thorsten},
+	year = {2008},
+	pages = {24–31}
+},
+
+@inproceedings{feily_survey_2009,
+	title = {A Survey of Botnet and Botnet Detection},
+	doi = {10.1109/SECURWARE.2009.48},
+	abstract = {Among the various forms of malware, botnets are emerging as the most serious threat against cyber-security as they provide a distributed platform for several illegal activities such as launching distributed denial of service attacks against critical targets, malware dissemination, phishing, and click fraud. The defining characteristic of botnets is the use of command and control channels through which they can be updated and directed. Recently, botnet detection has been an interesting research topic related to cyber-threat and cyber-crime prevention. This paper is a survey of botnet and botnet detection. The survey clarifies botnet phenomenon and discusses botnet detection techniques. This survey classifies botnet detection techniques into four classes: signature-based, anomaly-based, {DNS-based}, and mining-base. It summarizes botnet detection techniques in each class and provides a brief comparison of botnet detection techniques.},
+	booktitle = {Third International Conference on Emerging Security Information, Systems and Technologies, 2009. {SECURWARE} '09},
+	author = {Feily, M. and Shahrestani, A. and Ramadass, S.},
+	year = {2009},
+	keywords = {Automatic control, Botnet, Botnet Detection, botnet detection techniques, Command and control systems, Computer crime, Computer science, Computer security, cyber-crime prevention, cyber-security, digital signatures, Distributed computing, distributed denial of service attack, distributed platform, Information security, invasive software, malware dissemination, National security, Protocols, Robotics and automation},
+	pages = {268--273}
+},
+
+@book{bernhard_m_hammerli_critical_2008,
+	address = {Berlin [u.a.},
+	title = {Critical information infrastructures security: second international workshop, {CRITIS} 2007, Málaga, Spain, October 3 - 5, 2007 ; revised papers},
+	isbn = {3540890955 9783540890959 9783540891734 3540891730},
+	shorttitle = {Critical information infrastructures security},
+	url = {http://dx.doi.org/10.1007/978-3-540-89173-4},
+	language = {English},
+	urldate = {2014-02-12},
+	publisher = {Springer},
+	author = {{Bernhard M Hämmerli}},
+	year = {2008}
+},
+
+@incollection{gong_defense_2011,
+	series = {Lecture Notes in Computer Science},
+	title = {Defense against {DNS} Man-In-The-Middle Spoofing},
+	volume = {6987},
+	isbn = {978-3-642-23970-0},
+	url = {http://dx.doi.org/10.1007/978-3-642-23971-7_39},
+	booktitle = {Web Information Systems and Mining},
+	publisher = {Springer Berlin Heidelberg},
+	author = {Bai, Xiaolong and Hu, Liang and Song, Zixing and Chen, Feiyan and Zhao, Kuo},
+	editor = {Gong, Zhiguo and Luo, Xiangfeng and Chen, Junjie and Lei, Jingsheng and Wang, {FuLee}},
+	month = jan,
+	year = {2011},
+	keywords = {{ANN}, {DNS} {MITM}},
+	pages = {312--319}
+},
+
+@incollection{lopez_detecting_2008,
+	series = {Lecture Notes in Computer Science},
+	title = {Detecting {DNS} Amplification Attacks},
+	volume = {5141},
+	isbn = {978-3-540-89095-9},
+	url = {http://dx.doi.org/10.1007/978-3-540-89173-4_16},
+	booktitle = {Critical Information Infrastructures Security},
+	publisher = {Springer Berlin Heidelberg},
+	author = {Kambourakis, Georgios and Moschos, Tassos and Geneiatakis, Dimitris and Gritzalis, Stefanos},
+	editor = {Lopez, Javier and Hämmerli, {BernhardM.}},
+	month = jan,
+	year = {2008},
+	keywords = {Denial of Service, Detection and repelling mechanisms, {DNS} Amplification Attacks, {DNS} Security},
+	pages = {185--196}
+},
+
+@inproceedings{mikle_detecting_hidden_anomalies_in_dns_communication-2011.pdf_2011,
+	title = {{Detecting\_Hidden\_Anomalies\_in\_DNS\_Communication-2011.pdf} - Hledat Googlem},
+	url = {https://www.google.cz/search?q=Detecting_Hidden_Anomalies_in_DNS_Communication-2011.pdf&ie=utf-8&oe=utf-8&rls=org.mozilla:cs-CZ:official&client=firefox-a&gws_rd=cr&ei=Vxl8UtDsO--O7QbIwoCIAw},
+	urldate = {2013-11-07},
+	booktitle = {{CZ.NIC}},
+	author = {Mikle, Ondrej and Slaný, Karel and Veselý, Veselý and Janoušek, Tomáš and Surý, Ondřej},
+	year = {2011}
+},
+
+@inproceedings{antonakakis_detecting_2011,
+	title = {Detecting Malware Domains at the Upper {DNS} Hierarchy.},
+	url = {http://www.usenix.org/event/sec11/tech/full_papers/Antonakakis.pdf},
+	urldate = {2013-11-08},
+	booktitle = {{USENIX} Security Symposium},
+	author = {Antonakakis, Manos and Perdisci, Roberto and Lee, Wenke and Vasiloglou {II}, Nikolaos and Dagon, David},
+	year = {2011}
+},
+
+@inproceedings{van_der_heide_dns_2011,
+	title = {{DNS} anomaly detection},
+	url = {http://ext.delaat.net/rp/2010-2011/p17/report.pdf},
+	urldate = {2013-11-08},
+	booktitle = {{WWW-Dokument}, staff. science. uva. nl/∼ delaat/sne-2010-2011/p17/report. pdf},
+	author = {van der Heide, Hidde and Barendregt, Nick},
+	year = {2011}
+},
+
+@misc{wikipedia_domain_2014,
+	title = {Domain Name System},
+	copyright = {Creative Commons Attribution-{ShareAlike} License},
+	url = {http://en.wikipedia.org/w/index.php?title=Domain_Name_System&oldid=587867901},
+	abstract = {The Domain Name System ({DNS)} is a hierarchical distributed naming system for computers, services, or any resource connected to the Internet or a private network. It associates various information with domain names assigned to each of the participating entities. Most prominently, it translates easily memorized domain names to the numerical {IP} addresses needed for the purpose of locating computer services and devices worldwide. By providing a worldwide, distributed keyword-based redirection service, the Domain Name System is an essential component of the functionality of the Internet.},
+	urldate = {2014-01-15},
+	journal = {Wikipedia, the free encyclopedia},
+	author = {{wikipedia}},
+	month = jan,
+	year = {2014},
+	note = {Page Version {ID:} 587867901}
+},
+
+@inproceedings{dewaele_extracting_2007,
+	title = {Extracting hidden anomalies using sketch and non gaussian multiresolution statistical detection procedures},
+	url = {http://dl.acm.org/citation.cfm?id=1352675},
+	urldate = {2013-11-08},
+	booktitle = {Proceedings of the 2007 workshop on Large scale attack defense},
+	author = {Dewaele, Guillaume and Fukuda, Kensuke and Borgnat, Pierre and Abry, Patrice and Cho, Kenjiro},
+	year = {2007},
+	pages = {145–152}
+},
+
+@incollection{doyen_flow-based_2013,
+	series = {Lecture Notes in Computer Science},
+	title = {Flow-Based Detection of {DNS} Tunnels},
+	volume = {7943},
+	isbn = {978-3-642-38997-9},
+	url = {http://dx.doi.org/10.1007/978-3-642-38998-6_16},
+	booktitle = {Emerging Management Mechanisms for the Future Internet},
+	publisher = {Springer Berlin Heidelberg},
+	author = {Ellens, Wendy and Żuraniewski, Piotr and Sperotto, Anna and Schotanus, Harm and Mandjes, Michel and Meeuwissen, Erik},
+	editor = {Doyen, Guillaume and Waldburger, Martin and Čeleda, Pavel and Sperotto, Anna and Stiller, Burkhard},
+	month = jan,
+	year = {2013},
+	keywords = {anomaly detection, cyber security, {DNS} tunneling, network flows},
+	pages = {124--135}
+},
+
+@phdthesis{pavel_vrastiak_hledani_2011,
+	address = {Brno},
+	type = {Diplomová práce},
+	title = {Hledání anomálií v provozu {DNS}},
+	abstract = {Tato diplomová práce je napsána ve spolupráci s firmou {NIC.CZ} a zabývá se anomáliemi
+v provozu systému {DNS.} Obsahuje popis základních principů tohoto systému a vlastností,
+kterými se jeho provoz vyznačuje. Účelem této práce je pokusit se vytvořit klasifikátor něk-
+terých z anomálií v této práci uvedených a ověřit jeho schopnosti teoreticky i v praktických
+podmínkách.},
+	school = {{VUT} Brno},
+	author = {Pavel Vraštiak},
+	year = {2011}
+},
+
+@inproceedings{jiang_identifying_2010,
+	title = {Identifying suspicious activities through {DNS} failure graph analysis},
+	doi = {10.1109/ICNP.2010.5762763},
+	abstract = {As a key approach to securing large networks, existing anomaly detection techniques focus primarily on network traffic data. However, the sheer volume of such data often renders detailed analysis very expensive and reduces the effectiveness of these tools. In this paper, we propose a light-weight anomaly detection approach based on unproductive {DNS} traffic, namely, the failed {DNS} queries, with a novel tool - {DNS} failure graphs. A {DNS} failure graph captures the interactions between hosts and failed domain names. We apply a graph decomposition algorithm based on the tri-nonnegative matrix factorization technique to iteratively extract coherent co-clusters (dense subgraphs) from {DNS} failure graphs. By analyzing the co-clusters in the daily {DNS} failure graphs from a 3-month {DNS} trace captured at a large campus network, we find these co-clusters represent a variety of anomalous activities, e.g., spamming, trojans, bots, etc.. In addition, these activities often exhibit distinguishable subgraph structures. By exploring the temporal properties of the co-clusters, we show our method can identify new anomalies that likely correspond to unreported domain-flux bots.},
+	booktitle = {2010 18th {IEEE} International Conference on Network Protocols ({ICNP)}},
+	author = {Jiang, Nan and Cao, Jin and Jin, Yu and Li, Li and Zhang, Zhi-Li},
+	year = {2010},
+	keywords = {Communities, Correlation, distinguishable subgraph structures, {DNS} failure graph analysis, domain-flux bots, domain name system, Electronic mail, graph decomposition algorithm, graph theory, Internet, {IP} networks, lightweight anomaly detection, Malware, matrix decomposition, network traffic data, Servers, suspicious activities, telecommunication security, tri-nonnegative matrix factorization},
+	pages = {144--153}
+},
+
+@inproceedings{karasaridis_nis04-2:_2006,
+	title = {{NIS04-2:} Detection of {DNS} Anomalies using Flow Data Analysis},
+	shorttitle = {{NIS04-2}},
+	doi = {10.1109/GLOCOM.2006.280},
+	abstract = {The Domain Name System ({DNS)} is an essential network infrastructure component since it supports the operation of the Web, Email, Voice over {IP} ({VoIP)} and other business- critical applications running over the network. Events that compromise the security of {DNS} can have a significant impact on the Internet since they can affect its availability and its intended operation. This paper describes algorithms used to monitor and detect certain types of attacks to the {DNS} infrastructure using flow data. Our methodology is based on algorithms that do not rely on known signature attack vectors. The effectiveness of our solution is illustrated with real and simulated traffic examples. In one example, we were able to detect a tunneling attack well before the appearance of public reports of it.},
+	booktitle = {{IEEE} Global Telecommunications Conference, 2006. {GLOBECOM} '06},
+	author = {Karasaridis, A. and Meier-Hellstern, K. and Hoeflin, D.},
+	year = {2006},
+	keywords = {anomaly detection, Computer crime, Data analysis, Data security, Detectors, {DNS} security, domain name system, Electronic mail, email, flow data analysis, Internet, Monitoring, Protocols, telecommunication security, telecommunication traffic, Tunneling, tunneling attack detection, voice over {IP}, {VoIP}, Web server},
+	pages = {1--6}
+},
+
+@misc{mockapetris_rfc_1987,
+	title = {Rfc 1034: Domain names-concepts and facilities, 1987},
+	shorttitle = {Rfc 1034},
+	publisher = {{IEFT}},
+	author = {Mockapetris, Paul},
+	year = {1987}
+},
+
+@misc{mockapetris_rfc_1987-1,
+	title = {{RFC} 1035: Domain names: implementation and specification (November 1987)},
+	shorttitle = {{RFC} 1035},
+	publisher = {{IETF}},
+	author = {Mockapetris, Paul},
+	year = {1987}
+}

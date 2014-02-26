@@ -1,0 +1,15 @@
+DNS
+DNS je zkratka slov Domain Name System, ktery predstavuje vyznamnou ulohu v komunikaci mezi pocitaci predevsim v siti internet. DNS slouzi jako prekladovy slovnik mezi domenovym jmenem a IP adresou. Kazdy pocitac totiz v siti neni reprezentovan domenovym jmenem (napriklad www.nic.cz), ale prave IP adresou (napriklad 217.31.205.50), ktera by vsak byla pro cloveka velice tezko zapamatovatelna. Proto je postavena hierarchicka struktura DNS, ktera preklad provadi.
+
+Obecne DNS, Zakladni funkce, Slozeni, Jednotlive prvky, Legitimni provoz, Problemy, Anomalni provoz
+
+DNS - Domain Name System
+Domain Name System is a hierarchical distributed naming system for any resource connected to the Internet(wiki). You can imagine its function like a phone book what is translating human friendly domain names (eg. www.nic.cz) to IP address. IP address is the identification of every computer or other device connected to the Internet and must be unique(except of NAT). IPv4 is 32 bits long and is composed of four octets like numbers in range of values 0 to 255 delimited by dots (eg. 217.31.205.50). So you can see that form in IP address is much more difficult to memorize than www.nic.cz. And more difficult is situation in IPv6 which is 128 bits long and is composed of eight 16-bits hexadecimal values delimited by colon (eg. NIC address). This is the main reason why the DNS is being used.
+
+Components of DNS
+There are three major parts of DNS:
+- The domain name space and resource records
+- Names servers
+They hold information about the domain tree's structure and set information. 
+- Resolvers
+

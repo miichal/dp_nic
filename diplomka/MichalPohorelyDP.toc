@@ -1,0 +1,34 @@
+\select@language {czech}
+\select@language {UKenglish}
+\select@language {UKenglish}
+\select@language {UKenglish}
+\contentsline {subsection}{Citation of this thesis}{viii}{section*.1}
+\contentsline {chapter}{Introduction}{1}{chapter*.5}
+\contentsline {chapter}{\chapternumberline {1}DNS - Domain Name System}{3}{chapter.1}
+\contentsline {section}{\numberline {1.1}Normal DNS Usage}{3}{section.1.1}
+\contentsline {subsection}{\numberline {1.1.1}Components of DNS}{3}{subsection.1.1.1}
+\contentsline {subsection}{\numberline {1.1.2}DNS record}{4}{subsection.1.1.2}
+\contentsline {subsection}{\numberline {1.1.3}DNS resolution}{4}{subsection.1.1.3}
+\contentsline {section}{\numberline {1.2}Anomalous DNS Traffic}{5}{section.1.2}
+\contentsline {chapter}{\chapternumberline {2}Analysis of DNS Attacks}{7}{chapter.2}
+\contentsline {section}{\numberline {2.1}DoS Attacks}{7}{section.2.1}
+\contentsline {section}{\numberline {2.2}MiM Attacks}{7}{section.2.2}
+\contentsline {section}{\numberline {2.3}DNS Tunelling}{8}{section.2.3}
+\contentsline {section}{\numberline {2.4}Botnets}{8}{section.2.4}
+\contentsline {section}{\numberline {2.5}Other DNS Related Attacks}{8}{section.2.5}
+\contentsline {chapter}{\chapternumberline {3}Methods of DNS Attack Detection and Classification}{9}{chapter.3}
+\contentsline {section}{\numberline {3.1}Ad-hoc Methods}{9}{section.3.1}
+\contentsline {section}{\numberline {3.2}Signatures}{9}{section.3.2}
+\contentsline {section}{\numberline {3.3}Data-Mining Methods}{9}{section.3.3}
+\contentsline {subsection}{\numberline {3.3.1}Random Forest}{9}{subsection.3.3.1}
+\contentsline {subsection}{\numberline {3.3.2}Neural Nets}{9}{subsection.3.3.2}
+\contentsline {section}{\numberline {3.4}Statistical Methods}{9}{section.3.4}
+\contentsline {chapter}{\chapternumberline {4}Description of Selected Method}{11}{chapter.4}
+\contentsline {chapter}{\chapternumberline {5}Application Design}{13}{chapter.5}
+\contentsline {chapter}{\chapternumberline {6}Implementation}{15}{chapter.6}
+\contentsline {chapter}{\chapternumberline {7}Measurements and Testing}{17}{chapter.7}
+\contentsline {chapter}{Conclusion}{19}{chapter*.6}
+\contentsline {chapter}{Bibliography}{21}{section*.8}
+\select@language {english}
+\select@language {UKenglish}
+\contentsline {appendix}{\chapternumberline {A}Contents of CD}{25}{appendix.A}
